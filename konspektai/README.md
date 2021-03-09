@@ -2,13 +2,20 @@
 1. Instaliuojame git klientą ( https://git-scm.com/download/win )
 2. Prisijungiame į github.com su savo vartotoju
 3. Paspaudžiame "Fork" https://github.com/kestutisd/KTU-duomenu-vizualizacija repositorijoje
+
 ![](img/1-fork.png)
+
 4. Repositorijos kopija atkeliauja pas jus
 ![](img/2-fork.png)
+
 5. Nusikopijuokite Jūsų repositorijos nuorodą
+
 ![](img/3-clone.png)
+
 6. Atsidarykite *git bash* Jūsų darbinėje direktorijoje:
+
 ![](img/4-git-bash.png)
+
 7. Įveskite komandą:
 
 ```
