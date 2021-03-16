@@ -35,4 +35,4 @@ Atsakymas:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shinye.png)
+![shiny app](img/shiny.png)
