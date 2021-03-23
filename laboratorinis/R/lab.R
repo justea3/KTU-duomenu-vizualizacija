@@ -4,6 +4,7 @@ library(lubridate)
 library(hrbrthemes)
 library(viridis)
 library(ggplot2)
+library(zoo)
 data <- read_csv("../data/lab_sodra.csv")
 
 #1Uzduotis
